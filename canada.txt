@@ -6,3 +6,4 @@ Whitehorse
 Quebec City
 Whistler
 These are the places to visit when you're in canada
+These lines are new! V1
